@@ -146,5 +146,3 @@ Add your license of choice (MIT is fine). If you don’t, you’re leaving it am
 * **Colab “module not found”**: Run `pip install ...` in a cell, then re-run the setup.
 
 ---
-
-If you want me to also generate the eight script files with clean examples and the `# ---- Classwork ----` sections, say the word and I’ll draft them.
