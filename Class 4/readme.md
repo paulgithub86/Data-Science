@@ -135,7 +135,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## License
 
-Add your license of choice (MIT is fine). If you don’t, you’re leaving it ambiguous.
+License of choice (MIT).
 
 ---
 
